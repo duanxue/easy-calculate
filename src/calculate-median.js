@@ -6,7 +6,7 @@ function calculate_median(arr) {
 		if(i%2==0)
 		   temp[j++]=arr[i-1];
 	   }  
-	for(var k=temp.length-2;k>=0&&flag;k--)
+	fooooor(var k=temp.length-2;k>=0&&flag;k--)
 	   {
 		flag=false;
 		for(var m=0;m<=k;m++)
